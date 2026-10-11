@@ -4,15 +4,15 @@
 //  2. Add a new line below with the file name and a title
 // ================================================
 const drawings = [
-  { file: "1.jpeg", title: "Drawing 1" },
-  { file: "2.jpeg", title: "Drawing 2" },
-  { file: "3.jpeg", title: "Drawing 3" },
-  { file: "4.jpeg", title: "Drawing 4" },
-  { file: "5.jpeg", title: "Drawing 5" },
-  { file: "6.jpeg", title: "Drawing 6" },
-  { file: "7.jpeg", title: "Drawing 7" },
-  { file: "8.jpeg", title: "Drawing 8" },
-  { file: "9.jpeg", title: "Drawing 9" },
+  { file: "1.jpeg", title: "university magazine publication" },
+  { file: "2.jpeg", title: ":)" },
+  { file: "3.jpeg", title: "rose petals diy" },
+  { file: "4.jpeg", title: "" },
+  { file: "5.jpeg", title: "" },
+  { file: "6.jpeg", title: "" },
+  { file: "7.jpeg", title: "" },
+  { file: "8.jpeg", title: " },
+  { file: "9.jpeg", title: "" },
 ];
 
 // ------------------------------------------------
