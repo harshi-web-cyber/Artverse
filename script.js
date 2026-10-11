@@ -11,7 +11,7 @@ const drawings = [
   { file: "5.jpeg", title: "" },
   { file: "6.jpeg", title: "" },
   { file: "7.jpeg", title: "" },
-  { file: "8.jpeg", title: " },
+  { file: "8.jpeg", title: "" },
   { file: "9.jpeg", title: "" },
 ];
 
